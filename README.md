@@ -1,7 +1,7 @@
 # powershell
 powershell script to create AD users
 
-To run this script you need administrator right and a csv file.
+To run this script you need administrator privileges and a csv file.
 
 the csv file should looks like :
 
