@@ -1,6 +1,6 @@
 # powershell
 
-This repo caint two scripts :
+This repo has two scripts :
 
 - create_users.ps1 : create AD users from csv,
 - add_unix_attributes.ps1 : add Linux attributes to users
